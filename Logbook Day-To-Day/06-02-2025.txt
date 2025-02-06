@@ -1,0 +1,34 @@
+Torsdag, tredje dag förste intro-uge
+
+Takeaways:
+
+> Afklaring af spörgsmaal til undervisere fra Von Klaussen; begge valgfag skal saa vidt muligt forankres i projektet (pga. laerings-vaerdi)
+
+> Unity WebGL projekt med Louise, til forankring af andet valgfag i projektet
+	- E.g. multiplayer sprog ord-övelser, ventetids Google Dino kopispil, 'er du up2date med lovgivning/regler?" etc.
+
+> Afklaret mere paa projektet ift. dagens opgavesaet med resten af gruppen (forankring af begge valgfag for alle)
+	+ Settled paa Blazor som hovedprodukt platform
+
+> Bordfus!
+
+> Möde med Cosmus (+Nico, V.K., Patriqlés & Aleks)
+	- fremmöde + brainstorm af lösninger
+	- evt. tilbagemelding til undervisere/klasse ; som Patriqlés naevner, ville vaere rart med "taleark" & overvej om 'info for info's skyld'
+	- sandwich naeste gang! plus, naeste möde er 7 april-ish (tjek e-mejl)
+	- generelt feedback modtaget paa semestre-evalueringer = overensstemmende med aargangene's overall status/opfattelse
+
+> Möde kl. 9 i morgen
+	- Unity installation + notify gruppen om GPT's notes om overhead, performance & opstart af Unity-app vs. regular app
+	- Vis portfoljöio possibly ?! + evt. hjaelp andre med Blazor-via-GitHub-Pages
+
+	+ + + Braetspil / Hügge / SEVEN WONDERS (og nok ogs' lidt bordfus)!
+
+
+
+--->>> Extra Notes
+
+> HUSK at noté 'Opgave til Uge 7'
+
+> Husk at faa lavet logbog for tirsdag (ERFA-grupper) & onsdag (sÿg)
+

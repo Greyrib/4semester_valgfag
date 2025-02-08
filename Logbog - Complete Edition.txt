@@ -1,0 +1,119 @@
+08-02-2025 - Uge 7 - Lørdag
+---------------------------
+
+> Eksperiment: Forsøg at auto-grab daily logbog entries fra Github repo & show her
+	- Burde fungere med HTTPClient i Blazor peget mod repo
+		> Succes - ved grab af en specific fil!
+
+> Follow-Up Eksperiment: Forsøg at liste og auto-grab alle entries i folder fra Github repo'et
+	- Kraever brug af Github's API
+	- Apparently, at grab'e en listing af files bliver blocked af Github's API
+		- Solution: Brug 'raw.githubusercontent...' i stedet
+		- Didn't work
+	- Next problem: Spaces i filenames ka' interfere med dette, saa replace dem
+		- Didn't work
+	- Brug token fra Github til authentication for at undgaa throttling pga. too many requests
+		- Didn't work
+		- Takeaway:
+			- Hardcoded token = acceptable naar read-only permission (since repos er public)
+			- Bad security-perspective wise, fordi ka' accesses via inspection paa client-side / i browser & ka' bruges til cloning & faking af repos & identity
+	- Final decision: For meget time spent paa et 'saa simpelt' problem, ha' logbog-entry-files i Blazor og grab-&-display dem derfra
+
+
+-------------------------------------
+09-02-2025 - Uge 7 - Fredag
+Fredag, Intro Uge, Arbeit med Projekt
+-------------------------------------
+
+> Snak om Blazor som udgangspunkt for projekt
+
+> Afklaring af spörgsmaal til naeste möde med DFR & initial udbud om et möde i Uge 9 via Dan
+
+> Gennemgang af Unity's workflow
+	> Oprettelse af Projekt via UnityHub
+	> Dele af en "Scene"
+	> Hvordan coding & gameobjects haenger sammen
+	> Hvordan man builder
+	> Wha' man faar i et build
+
+> Gennemgang af Blazor som Portfolio-base
+
+> Tidligt opstarts-projektarbejde
+	> Google Drev faelles-mappe (Von Klaussen)
+	> Udarbejdet initial 'intro-side' wireframe paa tavle
+	> Use Case titler
+	> Wireframe paa Google Drev med Blazor-prototype look, som ka' bruges til naeste möde med P.O.
+
+> Opsaetning af Blazor som Portfolio-base med Nicolai
+	> Nojekyll super important
+
+> Mandag er afsat til Opgave-7 (Emne Praesentationer for ERFA i Uge 8)
+> Aftalt at mödes tirsdag paa Discord
+	> Pröver at lave en Blazor-prototype ud fra wireframes'ne
+
+> Opsaetning af Blazor som Portfolio-base med Von Klaussen
+	> Kinda 'simpelt' workflow, nu hvor vi har detaljerne for opsaetning paa plads
+	> Snakket om evt. at kunne automatisere fremtidig republishing via et script
+
+> 7 Wonders!
+> Masser af ranting, snak, debatering & en enkelt bordfus med Von Klaussen himself
+
+
+
+06-02-2025 - Uge 7 - Torsdag
+----------------------------
+Torsdag, tredje dag förste intro-uge
+
+Takeaways:
+
+> Afklaring af spörgsmaal til undervisere fra Von Klaussen; begge valgfag skal saa vidt muligt forankres i projektet (pga. laerings-vaerdi)
+
+> Unity WebGL projekt med Louise, til forankring af andet valgfag i projektet
+	- E.g. multiplayer sprog ord-övelser, ventetids Google Dino kopispil, 'er du up2date med lovgivning/regler?" etc.
+
+> Afklaret mere paa projektet ift. dagens opgavesaet med resten af gruppen (forankring af begge valgfag for alle)
+	+ Settled paa Blazor som hovedprodukt platform
+
+> Bordfus!
+
+> Möde med Cosmus (+Nico, V.K., Patriqlés & Aleks)
+	- fremmöde + brainstorm af lösninger
+	- evt. tilbagemelding til undervisere/klasse ; som Patriqlés naevner, ville vaere rart med "taleark" & overvej om 'info for info's skyld'
+	- sandwich naeste gang! plus, naeste möde er 7 april-ish (tjek e-mejl)
+	- generelt feedback modtaget paa semestre-evalueringer = overensstemmende med aargangene's overall status/opfattelse
+
+> Möde kl. 9 i morgen
+	- Unity installation + notify gruppen om GPT's notes om overhead, performance & opstart af Unity-app vs. regular app
+	- Vis portfoljöio possibly ?! + evt. hjaelp andre med Blazor-via-GitHub-Pages
+
+	+ + + Braetspil / Hügge / SEVEN WONDERS (og nok ogs' lidt bordfus)!
+
+
+
+--->>> Extra Notes
+
+> HUSK at noté 'Opgave til Uge 7'
+
+> Husk at faa lavet logbog for tirsdag (ERFA-grupper) & onsdag (sÿg)
+
+
+
+05-02-2025 - Uge 7 - Onsdag
+---------------------------
+
+> Syg, perfekt timing ved opstarts-uge, rip
+
+> Brugt sen-dagen paa at kigge detaljer fra skole-dagen, noter fra Discord (obrigato Von Klaussen!)
+
+> Brugt aftenen paa at kigge portfolio & pröve at opsaette den
+	- Wordpress : Not my kinda jam, vil hellere selv bygge fra grounds up. Deviance-problem: Regulaer blogging / logbog
+	- Blazor via GitHub Pages:
+		> Alle har en Github Pages med noget HTML-hosting stuff, info takket vaere Nicolai
+		> Kan saettes op til at köre med en Blazor app, dog med nogle limitations, inkl. static & 1 GB plads (burde dog vaere rigeligt)
+		> Efter en raekke timers arbeit, pain & suffering, det virker!
+		> Vaer obs paa publish/deploy processen
+
+[TODO] Faa jotted down, hvordan den proces actually er, for future referens & accessibility for andre
+	
+	* * * GÖR DET HER PROBS (?) * * *
+

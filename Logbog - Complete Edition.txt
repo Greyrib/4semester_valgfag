@@ -1,4 +1,4 @@
-08-02-2025 - Uge 7 - Lørdag
+<b>08-02-2025 - Uge 7 - Lørdag</b>
 ---------------------------
 
 > Eksperiment: Forsøg at auto-grab daily logbog entries fra Github repo & show her

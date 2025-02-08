@@ -1,7 +1,8 @@
 
-<hr>
-<b>08-02-2025 - Uge 7 - Lørdag</b>
----------------------------
+_________________________________________________________________________________________________________________________________________________________________________________________________________
+08-02-2025 - Uge 7 - Lørdag
+
+
 
 > Eksperiment: Forsøg at auto-grab daily logbog entries fra Github repo & show her
 	- Burde fungere med HTTPClient i Blazor peget mod repo
@@ -22,10 +23,10 @@
 	- Final decision: For meget time spent paa et 'saa simpelt' problem, ha' logbog-entry-files i Blazor og grab-&-display dem derfra
 
 
--------------------------------------
+_________________________________________________________________________________________________________________________________________________________________________________________________________
 09-02-2025 - Uge 7 - Fredag
 Fredag, Intro Uge, Arbeit med Projekt
--------------------------------------
+
 
 > Snak om Blazor som udgangspunkt for projekt
 
@@ -61,7 +62,7 @@ Fredag, Intro Uge, Arbeit med Projekt
 > Masser af ranting, snak, debatering & en enkelt bordfus med Von Klaussen himself
 
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________
 06-02-2025 - Uge 7 - Torsdag
 ----------------------------
 Torsdag, tredje dag förste intro-uge
@@ -99,7 +100,7 @@ Takeaways:
 > Husk at faa lavet logbog for tirsdag (ERFA-grupper) & onsdag (sÿg)
 
 
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________
 05-02-2025 - Uge 7 - Onsdag
 ---------------------------
 

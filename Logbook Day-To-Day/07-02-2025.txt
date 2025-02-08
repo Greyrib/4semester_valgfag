@@ -1,0 +1,28 @@
+Fredag, Intro Uge, Arbeit med Projekt
+-------------------------------------
+
+> Snak om Blazor som udgangspunkt for projekt
+
+> Afklaring af spörgsmaal til naeste möde med DFR & initial udbud om et möde i Uge 9 via Dan
+
+> Gennemgang af Unity's workflow
+	> Oprettelse af Projekt via UnityHub
+	> Dele af en "Scene"
+	> Hvordan coding & gameobjects haenger sammen
+	> Hvordan man builder
+	> Wha' man faar i et build
+
+> Gennemgang af Blazor som Portfolio-base
+
+> Tidligt opstarts-projektarbejde
+	> Google Drev faelles-mappe (Von Klaussen)
+	> Udarbejdet initial 'intro-side' wireframe paa tavle
+	> Use Case titler
+	> Wireframe paa Google Drev med Blazor-prototype look, som ka' bruges til naeste möde med P.O.
+
+> Opsaetning af Blazor som Portfolio-base
+
+> Mandag er afsat til Opgave-7 (Emne Praesentationer for ERFA i Uge 8)
+> Aftalt at mödes tirsdag paa Discord
+	> Pröver at lave en Blazor-prototype ud fra wireframes'ne
+

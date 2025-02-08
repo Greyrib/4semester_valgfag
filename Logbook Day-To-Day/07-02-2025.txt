@@ -20,9 +20,17 @@ Fredag, Intro Uge, Arbeit med Projekt
 	> Use Case titler
 	> Wireframe paa Google Drev med Blazor-prototype look, som ka' bruges til naeste möde med P.O.
 
-> Opsaetning af Blazor som Portfolio-base
+> Opsaetning af Blazor som Portfolio-base med Nicolai
+	> Nojekyll super important
 
 > Mandag er afsat til Opgave-7 (Emne Praesentationer for ERFA i Uge 8)
 > Aftalt at mödes tirsdag paa Discord
 	> Pröver at lave en Blazor-prototype ud fra wireframes'ne
+
+> Opsaetning af Blazor som Portfolio-base med Von Klaussen
+	> Kinda 'simpelt' workflow, nu hvor vi har detaljerne for opsaetning paa plads
+	> Snakket om evt. at kunne automatisere fremtidig republishing via et script
+
+> 7 Wonders!
+> Masser af ranting, snak, debatering & en enkelt bordfus med Von Klaussen himself
 

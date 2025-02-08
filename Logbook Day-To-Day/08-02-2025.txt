@@ -1,0 +1,21 @@
+08-02-2025 - Uge 7 - Lørdag
+---------------------------
+
+> Eksperiment: Forsøg at auto-grab daily logbog entries fra Github repo & show her
+	- Burde fungere med HTTPClient i Blazor peget mod repo
+		> Succes - ved grab af en specific fil!
+
+> Follow-Up Eksperiment: Forsøg at liste og auto-grab alle entries i folder fra Github repo'et
+	- Kraever brug af Github's API
+	- Apparently, at grab'e en listing af files bliver blocked af Github's API
+		- Solution: Brug 'raw.githubusercontent...' i stedet
+		- Didn't work
+	- Next problem: Spaces i filenames ka' interfere med dette, saa replace dem
+		- Didn't work
+	- Brug token fra Github til authentication for at undgaa throttling pga. too many requests
+		- Didn't work
+		- Takeaway:
+			- Hardcoded token = acceptable naar read-only permission (since repos er public)
+			- Bad security-perspective wise, fordi ka' accesses via inspection paa client-side / i browser & ka' bruges til cloning & faking af repos & identity
+	- Final decision: For meget time spent paa et 'saa simpelt' problem, ha' logbog-entry-files i Blazor og grab-&-display dem derfra
+

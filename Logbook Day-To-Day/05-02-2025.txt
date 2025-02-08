@@ -1,0 +1,19 @@
+05-02-2025 - Uge 7 - Onsdag
+---------------------------
+
+> Syg, perfekt timing ved opstarts-uge, rip
+
+> Brugt sen-dagen paa at kigge detaljer fra skole-dagen, noter fra Discord (obrigato Von Klaussen!)
+
+> Brugt aftenen paa at kigge portfolio & pröve at opsaette den
+	- Wordpress : Not my kinda jam, vil hellere selv bygge fra grounds up. Deviance-problem: Regulaer blogging / logbog
+	- Blazor via GitHub Pages:
+		> Alle har en Github Pages med noget HTML-hosting stuff, info takket vaere Nicolai
+		> Kan saettes op til at köre med en Blazor app, dog med nogle limitations, inkl. static & 1 GB plads (burde dog vaere rigeligt)
+		> Efter en raekke timers arbeit, pain & suffering, det virker!
+		> Vaer obs paa publish/deploy processen
+
+[TODO] Faa jotted down, hvordan den proces actually er, for future referens & accessibility for andre
+	
+	* * * GÖR DET HER PROBS (?) * * *
+
